@@ -1,0 +1,132 @@
+# ===========================================
+# Git Diff Splitter - Generated Files
+# ===========================================
+
+# Output directories created by the script
+diff_parts/
+output/
+temp_diff/
+
+# Generated diff files
+*.diff
+full_diff_*.txt
+diff_*.txt
+*_diff_*.txt
+
+# Log files
+*.log
+debug.log
+
+# ===========================================
+# OS Generated Files
+# ===========================================
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+# ===========================================
+# Editor & IDE Files
+# ===========================================
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Vim
+*.swp
+*.swo
+*~
+.netrwhist
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# ===========================================
+# Development & Testing
+# ===========================================
+
+# Test repositories (if you create test repos)
+test_repo/
+sample_repo/
+demo_git/
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+
+# ===========================================
+# Shell & Script Specific
+# ===========================================
+
+# Shell history
+.bash_history
+.zsh_history
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# ===========================================
+# Documentation Build (if you add docs)
+# ===========================================
+
+# Generated documentation
+docs/_build/
+site/
+
+# ===========================================
+# Package Managers (if you add any)
+# ===========================================
+
+# Node.js (if you add any JS tools)
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Python (if you add Python utilities)
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
